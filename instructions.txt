@@ -1,4 +1,0 @@
-1. Figure filenames and captions go in figures.js, as shown. Simply add more figures as necessary.
-2. Paper info goes in metadata.js; the fields should be pretty self-explanatory.
-3. Tables (if any) go in tables.js as shown, as raw LaTeX source. If there are no tables to display on project page, simply delete this file.
-4. That's it!
