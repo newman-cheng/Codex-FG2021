@@ -5,7 +5,7 @@ const metadata = {
     venue: "IEEE International Conference on Automatic Face and Gesture Recognition",
     paper: "Solving the Families in the Wild kinship verification challenge by program synthesis",
     bibtex: ``,
-    github: "https://github.com/newman-cheng/FG2021-Project-Page"
+    github: "https://newman-cheng.github.io/Codex-FG2021/"
 };
 
 export default metadata;
