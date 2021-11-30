@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/Codex-FG2021/static/css/main.6897bdac.chunk.css",
-    "main.js": "/Codex-FG2021/static/js/main.c5210896.chunk.js",
-    "main.js.map": "/Codex-FG2021/static/js/main.c5210896.chunk.js.map",
-    "runtime-main.js": "/Codex-FG2021/static/js/runtime-main.af0a70c1.js",
-    "runtime-main.js.map": "/Codex-FG2021/static/js/runtime-main.af0a70c1.js.map",
+    "main.js": "/Codex-FG2021/static/js/main.b79d8955.chunk.js",
+    "main.js.map": "/Codex-FG2021/static/js/main.b79d8955.chunk.js.map",
+    "runtime-main.js": "/Codex-FG2021/static/js/runtime-main.563f3e40.js",
+    "runtime-main.js.map": "/Codex-FG2021/static/js/runtime-main.563f3e40.js.map",
     "static/css/2.ccb2ad39.chunk.css": "/Codex-FG2021/static/css/2.ccb2ad39.chunk.css",
-    "static/js/2.c97374eb.chunk.js": "/Codex-FG2021/static/js/2.c97374eb.chunk.js",
-    "static/js/2.c97374eb.chunk.js.map": "/Codex-FG2021/static/js/2.c97374eb.chunk.js.map",
-    "static/js/3.c8f99f6a.chunk.js": "/Codex-FG2021/static/js/3.c8f99f6a.chunk.js",
-    "static/js/3.c8f99f6a.chunk.js.map": "/Codex-FG2021/static/js/3.c8f99f6a.chunk.js.map",
+    "static/js/2.2e2224dd.chunk.js": "/Codex-FG2021/static/js/2.2e2224dd.chunk.js",
+    "static/js/2.2e2224dd.chunk.js.map": "/Codex-FG2021/static/js/2.2e2224dd.chunk.js.map",
+    "static/js/3.ffdcd008.chunk.js": "/Codex-FG2021/static/js/3.ffdcd008.chunk.js",
+    "static/js/3.ffdcd008.chunk.js.map": "/Codex-FG2021/static/js/3.ffdcd008.chunk.js.map",
     "index.html": "/Codex-FG2021/index.html",
     "static/css/2.ccb2ad39.chunk.css.map": "/Codex-FG2021/static/css/2.ccb2ad39.chunk.css.map",
     "static/css/main.6897bdac.chunk.css.map": "/Codex-FG2021/static/css/main.6897bdac.chunk.css.map",
-    "static/js/2.c97374eb.chunk.js.LICENSE.txt": "/Codex-FG2021/static/js/2.c97374eb.chunk.js.LICENSE.txt",
+    "static/js/2.2e2224dd.chunk.js.LICENSE.txt": "/Codex-FG2021/static/js/2.2e2224dd.chunk.js.LICENSE.txt",
     "static/media/_config.yml": "/Codex-FG2021/static/media/_config.98dd42d0.yml",
     "static/media/architecture.png": "/Codex-FG2021/static/media/architecture.1ff0f2ef.png",
     "static/media/architecture.jpg": "/Codex-FG2021/static/media/architecture.afc6b580.jpg",
@@ -22,10 +22,10 @@
     "static/media/logo.svg": "/Codex-FG2021/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.af0a70c1.js",
+    "static/js/runtime-main.563f3e40.js",
     "static/css/2.ccb2ad39.chunk.css",
-    "static/js/2.c97374eb.chunk.js",
+    "static/js/2.2e2224dd.chunk.js",
     "static/css/main.6897bdac.chunk.css",
-    "static/js/main.c5210896.chunk.js"
+    "static/js/main.b79d8955.chunk.js"
   ]
 }
